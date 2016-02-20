@@ -1,0 +1,12 @@
+[kibana]
+url = "https://kibana"
+
+[dashboard]
+
+    [dashboard.example1]
+    name = "Example-1"
+    save_to = "/volume/exports/example1.png"
+
+    [dashboard.example2]
+    name = "Example2"
+    save_to = "/volume/exports/example2.png"
